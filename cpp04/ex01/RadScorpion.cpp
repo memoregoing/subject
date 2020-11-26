@@ -25,3 +25,4 @@ RadScorpion &RadScorpion::operator=(RadScorpion const &other)
 	this->hp = other.hp;
 	return (*this);
 }
+
