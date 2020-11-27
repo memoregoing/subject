@@ -28,10 +28,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2726fc54-ba5a-4f8a-8ed0-a0d788577e1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/subject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp04/ex01/RadScorpion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp04/ex01/RadScorpion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp05/ex00/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp05/ex03/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp05/ex03/home_shrubbery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp05/ex02/home_shrubbery" beforeDir="false" afterPath="$PROJECT_DIR$/cpp05/ex02/home_shrubbery" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +46,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1koBaqOHQ9lQQ24SYtgR0TzCwDf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -67,6 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1606357129258</updated>
       <workItem from="1606357130626" duration="3287000" />
+      <workItem from="1606391172843" duration="75000" />
+      <workItem from="1606434910648" duration="308000" />
+      <workItem from="1606442506625" duration="1279000" />
+      <workItem from="1606451983530" duration="1021000" />
     </task>
     <servers />
   </component>
@@ -83,11 +92,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="692" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606358091301">
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state x="692" y="335" key="#com.intellij.fileTypes.FileTypeChooser/-1680.23.1680.1027/0.23.1920.1006@0.23.1920.1006" timestamp="1606358091301" />
+    <state x="1170" y="265" width="540" height="524" key="StructurePopup" timestamp="1606443270445">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="1170" y="265" width="540" height="524" key="StructurePopup/-1680.23.1680.1027/0.23.1920.1006@0.23.1920.1006" timestamp="1606443270445" />
   </component>
 </project>
